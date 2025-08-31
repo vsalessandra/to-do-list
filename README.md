@@ -1,4 +1,4 @@
-Projeto To Do List - Em desenvolvimento
+Projeto To Do List
 
 Aplicativo Flutter simples para gerenciamento de tarefas.
 
